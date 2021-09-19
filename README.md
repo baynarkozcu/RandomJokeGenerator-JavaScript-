@@ -5,8 +5,8 @@ Basit <b>HTML & CSS & JS </b> Kullanılarak Oluşturulmuş Farklı API Kaynaklar
 
 ### Source API & CSS Framework :
 
-#### <li> Source API RandomJoke <a href ="https://www.mmobomb.com/api">Link</a> </li>
-#### <li> Source API RandomImages <a href ="https://www.mmobomb.com/api">Link</a> </li>
+#### <li> Source API RandomJoke <a href ="https://api.chucknorris.io/">Link</a> </li>
+#### <li> Source API RandomImages <a href ="https://source.unsplash.com/">Link</a> </li>
 #### <li> Bulma CSS <a href ="https://bulma.io/">Link</a> </li>
 
 
